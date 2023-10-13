@@ -1,0 +1,21 @@
+{
+    "name": "abdo-developer0/php-design-patterns",
+    "description": "Design patterns examples",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "AbdoDeveloper0\\PhpDesignPatterns\\": "src/",
+            "AbdoDeveloper0\\PhpDesignPatterns\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdo-developer0",
+            "email": "tknwtknwlwjy10@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}

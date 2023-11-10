@@ -5,8 +5,8 @@
     "license": "GPL",
     "autoload": {
         "psr-4": {
-            "AbdoDeveloper0\\PhpDesignPatterns\\": "src/",
-            "AbdoDeveloper0\\PhpDesignPatterns\\Tests\\": "tests/"
+            "PhpDesignPatterns\\": "src/",
+            "PhpDesignPatterns\\Tests\\": "tests/"
         }
     },
     "authors": [
